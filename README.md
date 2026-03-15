@@ -2,7 +2,7 @@
 
 **EcoRoute** — O'zbekiston universitetlari uchun yaratilgan, interaktiv xarita asosidagi transport CO₂ emissiyasi kalkulyatori.
 
-# Sayit
+# Havola ishlamoqda
 https://ekoyol.netlify.app/
 
 ## Loyiha haqida
